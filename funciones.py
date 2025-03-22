@@ -6,3 +6,5 @@ def my_funtion(x,y):
     result = x + y
 
     return result 
+def my_funtion2():
+    return "hola mundo"
